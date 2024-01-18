@@ -23,8 +23,7 @@ Cinematch é um sistema de recomendação de filmes em Python. Utilizando algori
 
 ### Estrutura do Projeto
 - `cinematch.py`: Script principal de recomendação.
-- `data/`: Conjuntos de dados de filmes.
-- `utils/`: Módulos auxiliares para manipulação de dados e algoritmos de recomendação.
+- `netflixData.csv`: Conjuntos de dados de filmes.
 
 ### Requisitos
 - pandas

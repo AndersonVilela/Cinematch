@@ -6,7 +6,7 @@ Cinematch é um sistema de recomendação de filmes em Python. Utilizando algori
 ### Instruções de Uso
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Cinematch.git
+   git clone https://github.com/AndersonVilela/Cinematch.git
    ```
 
 2. Instale as dependências:
